@@ -16,7 +16,7 @@ Funcionalidades:
 
 Clone o projeto
 
-É importante ter o docker ou docker desktop e iniciar uma imagem mongo na porta 27017
+É importante rodar o mongo na porta 27017
 
 ```bash
   git clone https://github.com/alihpss/waiterapp.git
@@ -40,7 +40,6 @@ Entre nos diretório do projeto, app, api e fe e siga os passos de instalação 
   cd fe
   yarn
 ```
-- É importante instalar o docker.
 
 
 
